@@ -7,6 +7,7 @@
     <title>Index</title>
 </head>
 <body>
+<h1> Teste Heroku</h1>
     <a href="primeira.php">Primeira</a><br>
     <a href="aritmetica.php">Aritmetica</a><br>
     <a href="if.php">If</a><br>
